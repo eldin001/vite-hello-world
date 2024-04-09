@@ -8,7 +8,7 @@
   export default {
     data(){
       return {
-        title: 'Heelo World'
+        title: 'La mia prima app con Vite!'
       }
     }
   }
